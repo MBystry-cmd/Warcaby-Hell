@@ -1,0 +1,6 @@
+﻿  help warcaby.cpp
+C:\Users\bystr\source\repos\help warcaby\help warcaby.cpp(135,18): warning C4101: "y2": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\bystr\source\repos\help warcaby\help warcaby.cpp(135,10): warning C4101: "y1": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\bystr\source\repos\help warcaby\help warcaby.cpp(135,6): warning C4101: "x1": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\bystr\source\repos\help warcaby\help warcaby.cpp(135,14): warning C4101: "x2": lokalna zmienna, do której nie istnieje odwołanie
+  help warcaby.vcxproj -> C:\Users\bystr\source\repos\help warcaby\Debug\help warcaby.exe
